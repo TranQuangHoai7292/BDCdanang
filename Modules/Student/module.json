@@ -1,0 +1,18 @@
+{
+    "name": "Student",
+    "alias": "student",
+    "description": "",
+    "keywords": [],
+    "version": "1.0.0",
+	"active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Student\\Providers\\StudentServiceProvider",
+        "Modules\\Student\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

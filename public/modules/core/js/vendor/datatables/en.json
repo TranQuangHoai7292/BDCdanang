@@ -1,0 +1,23 @@
+{
+	"sEmptyTable":     "Không có dữ liệu",
+	"sInfo":           "Hiển thị _START_ to _END_ of _TOTAL_ mục",
+	"sInfoEmpty":      "Hiển thị 0 to 0 of 0 phần tử",
+	"sInfoFiltered":   "(filtered from _MAX_ total mục)",
+	"sInfoPostFix":    "",
+	"sInfoThousands":  ",",
+	"sLengthMenu":     "Hiển thị _MENU_ mục",
+	"sLoadingRecords": "Đang tải...",
+	"sProcessing":     "Processing...",
+	"sSearch":         "Tìm Kiếm:",
+	"sZeroRecords":    "No matching records found",
+	"oPaginate": {
+		"sFirst":    "Đầu",
+		"sLast":     "Cuối",
+		"sNext":     "Tiếp Theo",
+		"sPrevious": "Quay Lại"
+	},
+	"oAria": {
+		"sSortAscending":  ": activate to sort column ascending",
+		"sSortDescending": ": activate to sort column descending"
+	}
+}
